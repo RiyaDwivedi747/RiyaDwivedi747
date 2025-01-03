@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riya Dwivedi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img="right" alt="coding" width="400px" scr="https://github.com/RiyaDwivedi747/RiyaDwivedi747/blob/main/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyadwivedi747&label=Profile%20views&color=0e75b6&style=flat" alt="riyadwivedi747" /> </p>
 
